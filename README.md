@@ -1,3 +1,24 @@
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel to connect with me or ask me anything <br>
+<a href="https://github.com/monalisasha"><b>here</b></a><br>
+or <a href="monsha@mail.fresnostate.edu"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+
+
+
 ## Hi there, I'm Monalisa Sha 👋
 
 I have Worked as a Software Engineer for 4.5+ years before coming for my Master's. 
