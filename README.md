@@ -1,7 +1,5 @@
 ### Hi there, I'm Monalisa Sha 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 I have Worked as a Software Engineer for 4.5+ years before coming for my Master's. 
 I am from :ind:India, currently living in :us:Fresno, California.
 I am currently Seeking Full time opportunities for 2021 , where i can best hone and utilize my skill sets and interests.
