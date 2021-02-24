@@ -1,10 +1,10 @@
-### Hi there, I'm Monalisa Sha 👋
+## Hi there, I'm Monalisa Sha 👋
 
 I have Worked as a Software Engineer for 4.5+ years before coming for my Master's. 
 I am from :india:India, currently living in :us:Fresno, California.
 I am currently Seeking Full time opportunities for 2021 , where i can best hone and utilize my skill sets and interests.
 
-## I'm a Student, Developer, and Learner!!
+### I'm a Student, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn Google Cloud Platform and learn more and more 
@@ -19,7 +19,8 @@ I am currently Seeking Full time opportunities for 2021 , where i can best hone 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
