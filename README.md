@@ -30,7 +30,7 @@ I am currently Seeking Full time opportunities for 2021 , where i can best hone 
 
 <h3>Languages and Tools:</h3>
 <p>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-Green"/>
+  <img alt="Python3" src ="https://img.shields.io/badge/Python3-Green"/>
   <img alt="Flask" src ="https://img.shields.io/badge/Flask-yellow"/>
   <img alt="Hadoop" src ="https://img.shields.io/badge/Hadoop-blue"/>
   <img alt="MapReduce" src ="https://img.shields.io/badge/MapReduce-red"/>
