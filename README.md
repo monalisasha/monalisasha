@@ -21,24 +21,15 @@ I am currently Seeking Full time opportunities for 2021 , where i can best hone 
 - 🥅 2021 Goals: Learn Google Cloud Platform and learn more and more 
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
+<h3> Spotify Playing 🎧 </h3>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wzrS)
 
-### Connect with me:
-
-
-<h3>Where to find me</h3>
+<h3> Connect with me: </h3>
 <p><a href="https://github.com/monalisasha" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/monalisa0410" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/monalisa-sha-29183258/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-[<img align="left" alt="codeSTACKr | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-<br />
-### Languages and Tools:
-<h3>Things I code with</h3>
+<h3>Languages and Tools:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -64,20 +55,9 @@ I am currently Seeking Full time opportunities for 2021 , where i can best hone 
   <img alt="Flask" src ="https://img.shields.io/badge/Flask-Green"/>
 </p>
 
-### GitHub Stats:
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=monalisasha&show_icons=true&hide_border=true" />
-
 ![GitHub stats](https://github-readme-stats.codestackr.vercel.app/api?username=monalisasha&show_icons=true&hide_border=true)
 
 ![Profile views](https://gpvc.arturio.dev/monalisasha)
-
-[github]: https://github.com/monalisasha
-[twitter]: https://twitter.com/monalisa0410
-[linkedin]: https://www.linkedin.com/in/monalisa-sha-29183258/
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <div align="center">
 <i>Happy Coding!</i> 😊
