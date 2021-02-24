@@ -6,7 +6,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel to connect with me or ask me anything <br>
+Please feel free to connect with me or ask me anything. <br>
 <a href="https://github.com/monalisasha">here</a><br>
 </div>
 
