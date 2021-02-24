@@ -1,9 +1,8 @@
-<div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
      I'm Monalisa Sha
 </div>
 
-<div align="center">
+<div>
 
 You have finally discovered my Github profile. <br>
 Please feel to connect with me or ask me anything <br>
@@ -31,15 +30,15 @@ I am currently Seeking Full time opportunities for 2021 , where i can best hone 
 <h3>Languages and Tools:</h3>
 <p>
   <img alt="Python" src ="https://img.shields.io/badge/Python-Green"/>
-  <img alt="Flask" src ="https://img.shields.io/badge/Flask-Green"/>
-  <img alt="Hadoop" src ="https://img.shields.io/badge/Hadoop-Blue"/>
-  <img alt="MapReduce" src ="https://img.shields.io/badge/MapReduce-Red"/>
+  <img alt="Flask" src ="https://img.shields.io/badge/Flask-yellow"/>
+  <img alt="Hadoop" src ="https://img.shields.io/badge/Hadoop-blue"/>
+  <img alt="MapReduce" src ="https://img.shields.io/badge/MapReduce-red"/>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-Green"/>
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-Blue"/>
+  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-green"/>
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-blue"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="EMacs" src ="https://img.shields.io/badge/EMacs-Blue"/>
-  <img alt = "Javascript" src = "https://img.shields.io/badge/Javascript-ES6-yellow"/>
+  <img alt = "Javascript" src = "https://img.shields.io/badge/Javascript-yellow"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
