@@ -16,7 +16,7 @@ I am currently Seeking Full time opportunities for 2021 , where i can best hone 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
@@ -65,7 +65,7 @@ I am currently Seeking Full time opportunities for 2021 , where i can best hone 
 
 </details>
 
-[website]: https://github.com/monalisasha
+[github]: https://github.com/monalisasha
 [twitter]: https://twitter.com/monalisa0410
 [linkedin]: https://www.linkedin.com/in/monalisa-sha-29183258/
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
