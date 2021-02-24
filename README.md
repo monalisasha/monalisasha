@@ -1,7 +1,7 @@
 ### Hi there, I'm Monalisa Sha 👋
 
 I have Worked as a Software Engineer for 4.5+ years before coming for my Master's. 
-I am from :in:India, currently living in :us:Fresno, California.
+I am from :india:India, currently living in :us:Fresno, California.
 I am currently Seeking Full time opportunities for 2021 , where i can best hone and utilize my skill sets and interests.
 
 ## I'm a Student, Developer, and Learner!!
