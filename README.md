@@ -2,7 +2,7 @@
 Hi there. I'm Monalisa Sha, a current Computer Science Graduate Student at California State University Fresno.
 
 I have Worked as a Software Engineer for 4.5+ years before coming for my Master's. 
-I am from India, currently living in Fresno, California.
+I am from :ind:India, currently living in :us:Fresno, California.
 I am currently Seeking Full time opportunities for 2021 , where i can best hone and utilize my skill sets and interests.
 
 Things I code with
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can paint you..I mean i can make a painting of yours 😄
 -->
 Where to find me
-Github Twitter LinkedIn
+:link: Twitter LinkedIn
