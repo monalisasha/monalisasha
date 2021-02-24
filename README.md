@@ -1,6 +1,6 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-  ## I'm Monalisa Sha
+     I'm Monalisa Sha
 </div>
 
 <div align="center">
@@ -9,8 +9,6 @@ You have finally discovered my Github profile. <br>
 Please feel to connect with me or ask me anything <br>
 <a href="https://github.com/monalisasha"><b>here</b></a><br>
 or <a href="monsha@mail.fresnostate.edu"><b>email</b></a> me
-
-<i>Happy Coding!</i> 😊
 
 
 I have Worked as a Software Engineer for 4.5+ years before coming for my Master's. 
@@ -57,3 +55,7 @@ I am currently Seeking Full time opportunities for 2021 , where i can best hone 
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<div align="center">
+<i>Happy Coding!</i> 😊
+</div>
