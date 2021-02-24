@@ -8,7 +8,7 @@
 You have finally discovered my Github profile. <br>
 Please feel to connect with me or ask me anything <br>
 <a href="https://github.com/monalisasha"><b>here</b></a><br>
-or <a href="monsha@mail.fresnostate.edu"><b>email</b></a> me
+or <a href="monalisa0410@gmail.com"><b>email</b></a> me
 
 
 I have Worked as a Software Engineer for 4.5+ years before coming for my Master's. 
